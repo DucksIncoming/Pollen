@@ -3241,3 +3241,22 @@ Recommended: 30.0.101.1340
 [2022.11.15-21.11.45:596][891]LogSavePackage: Moving '../../../../../../Users/ducks/Documents/GitHub/Pollen/Saved/WorldGeneratorB43D4600441075E4C8A36CBC175869F3.tmp' to '../../../../../../Users/ducks/Documents/GitHub/Pollen/Content/Assets/Blueprints/World/WorldGenerator.uasset'
 [2022.11.15-21.11.45:618][891]AssetCheck: New page: Asset Save: WorldGenerator
 [2022.11.15-21.11.45:618][891]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/World/WorldGenerator.WorldGenerator
+[2022.11.15-21.12.05:764][ 17]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [4999ms] waiting for h/w. InstanceID=1
+[2022.11.15-21.12.05:764][ 17]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=12120
+[2022.11.15-21.12.06:091][ 17]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{812b9af7-56a1-4ba6-bb9f-7e292fce318c}, Name=Speaker (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=20.51
+[2022.11.15-21.12.06:091][ 17]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.11.15-21.12.06:101][ 18]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.11.15-21.12.07:281][ 21]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.11.15-21.13.14:787][ 23]LogHttp: Warning: 000007C3BD1B1900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B57B8B26F-43C9-23B4-FB92-ACB6EBEF5774%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=dcf724b64cd07a5d1ed187897fe2017e%7C377335ac941949edba45209337c9ebd1%7Cc4aa50d7-f0e6-49af-9eeb-1c5d77f257d8&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.15-21.13.14:826][ 23]LogHttp: Warning: 000007C3BD1B1900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.11.15-21.13.14:826][ 23]LogHttp: Warning: 000007C3BD1B1900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x7c3650d0e70 [can pipeline])
+[2022.11.15-21.13.14:826][ 23]LogHttp: Warning: 000007C3BD1B1900: libcurl info message cache 1 (Re-using existing connection! (#2) with host datarouter.ol.epicgames.com)
+[2022.11.15-21.13.14:826][ 23]LogHttp: Warning: 000007C3BD1B1900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (100.24.112.116) port 443 (#2))
+[2022.11.15-21.13.14:826][ 23]LogHttp: Warning: 000007C3BD1B1900: libcurl info message cache 3 (SSL_write() returned SYSCALL, errno = 10053)
+[2022.11.15-21.13.14:826][ 23]LogHttp: Warning: 000007C3BD1B1900: libcurl info message cache 4 (Failed sending HTTP POST request)
+[2022.11.15-21.13.14:826][ 23]LogHttp: Warning: 000007C3BD1B1900: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.11.15-21.13.14:826][ 23]LogHttp: Warning: 000007C3BD1B1900: libcurl info message cache 6 (Closing connection 2)
+[2022.11.15-21.13.14:826][ 23]LogHttp: Warning: 000007C3BD1B1900: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B57B8B26F-43C9-23B4-FB92-ACB6EBEF5774%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=dcf724b64cd07a5d1ed187897fe2017e%7C377335ac941949edba45209337c9ebd1%7Cc4aa50d7-f0e6-49af-9eeb-1c5d77f257d8&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2022.11.15-21.13.14:826][ 23]LogHttp: Warning: 000007C3BD1B1900: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.11.15-21.13.14:826][ 23]LogHttp: Warning: 000007C3BD1B1900: libcurl info message cache 9 (Closing connection 3)
+[2022.11.15-21.13.14:826][ 23]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B57B8B26F-43C9-23B4-FB92-ACB6EBEF5774%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=dcf724b64cd07a5d1ed187897fe2017e%7C377335ac941949edba45209337c9ebd1%7Cc4aa50d7-f0e6-49af-9eeb-1c5d77f257d8&AppEnvironment=datacollector-binary&UploadType=eteventstream

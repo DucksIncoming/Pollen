@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Bloom_CSProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Bloom_CSProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Bloom_CSProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Bloom_CSProject.uproject.old" />
+    <None Include="..\..\LICENSE" />
+    <None Include="..\..\README.md" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
+    <Filter Include="Source\Bloom_CSProject">
+      <UniqueIdentifier>{B934A526-1418-31DE-8989-9821DB8DFFEA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Bloom_CSProject\Bloom_CSProject.Build.cs">
+      <Filter>Source\Bloom_CSProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Bloom_CSProject\Bloom_CSProject.cpp">
+      <Filter>Source\Bloom_CSProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Bloom_CSProject\Bloom_CSProject.h">
+      <Filter>Source\Bloom_CSProject</Filter>
+    </ClInclude>
+    <Filter Include="Source\Bloom_CSProject\Private">
+      <UniqueIdentifier>{2E0ED6B7-4055-33BE-94C6-C1A073C63372}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Bloom_CSProject\Private\Perlin.cpp">
+      <Filter>Source\Bloom_CSProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Bloom_CSProject\Private\PerlinGenerator.cpp">
+      <Filter>Source\Bloom_CSProject\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Bloom_CSProject\Public">
+      <UniqueIdentifier>{DB35300F-D5B8-32E9-8940-7DE11AC7EDDB}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Bloom_CSProject\Public\Perlin.h">
+      <Filter>Source\Bloom_CSProject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Bloom_CSProject\Public\PerlinGenerator.h">
+      <Filter>Source\Bloom_CSProject\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

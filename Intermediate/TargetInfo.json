@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Bloom_CSProject",
+			"Path": "C:\\Users\\w10\\Documents\\GitHub\\Pollen\\Source\\Bloom_CSProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Bloom_CSProjectEditor",
+			"Path": "C:\\Users\\w10\\Documents\\GitHub\\Pollen\\Source\\Bloom_CSProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

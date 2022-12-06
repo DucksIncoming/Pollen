@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Perlin_Noise.cpp.obj": [
+			"Perlin_Noise.cpp.obj",
+			"Perlin_NoiseBPLibrary.cpp.obj"
+		],
+		"Module.Perlin_Noise.gen.cpp.obj": [
+			"Perlin_Noise.init.gen.cpp.obj",
+			"Perlin_NoiseBPLibrary.gen.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\w10\\documents\\github\\pollen\\intermediate\\build\\win64\\unrealeditor\\inc\\bloom_csproject\\bloom_csproject.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\w10\\documents\\github\\pollen\\intermediate\\build\\win64\\bloom_csprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\w10\\documents\\github\\pollen\\intermediate\\build\\win64\\unrealeditor\\development\\bloom_csproject\\definitions.bloom_csproject.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

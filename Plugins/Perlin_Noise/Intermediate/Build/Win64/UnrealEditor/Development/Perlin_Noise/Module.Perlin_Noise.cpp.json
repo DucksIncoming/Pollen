@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\w10\\documents\\github\\pollen\\plugins\\perlin_noise\\intermediate\\build\\win64\\unrealeditor\\development\\perlin_noise\\module.perlin_noise.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\w10\\documents\\github\\pollen\\intermediate\\build\\win64\\unrealeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\w10\\documents\\github\\pollen\\plugins\\perlin_noise\\intermediate\\build\\win64\\unrealeditor\\development\\perlin_noise\\definitions.perlin_noise.h",
+            "c:\\users\\w10\\documents\\github\\pollen\\plugins\\perlin_noise\\source\\perlin_noise\\private\\perlin_noise.cpp",
+            "c:\\users\\w10\\documents\\github\\pollen\\plugins\\perlin_noise\\source\\perlin_noise\\public\\perlin_noise.h",
+            "c:\\users\\w10\\documents\\github\\pollen\\plugins\\perlin_noise\\source\\perlin_noise\\private\\perlin_noisebplibrary.cpp",
+            "c:\\users\\w10\\documents\\github\\pollen\\plugins\\perlin_noise\\source\\perlin_noise\\public\\perlin_noisebplibrary.h",
+            "c:\\users\\w10\\documents\\github\\pollen\\plugins\\perlin_noise\\intermediate\\build\\win64\\unrealeditor\\inc\\perlin_noise\\perlin_noisebplibrary.generated.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.19041.0\\ucrt\\math.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
